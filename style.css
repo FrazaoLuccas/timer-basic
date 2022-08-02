@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    border-radius: 35px;
+    max-width: 400px;
+    margin: 200px auto;
+    text-align: center;
+    font-size: 30px; 
+    color: white;
+    background-color: black;
+
+}
+
+button{
+    background-color:black;
+    cursor: pointer;
+    width: 60px;
+    height: 35px;
+    color: white;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+
+.pausado{
+    color: red;
+}
